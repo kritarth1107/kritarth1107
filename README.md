@@ -147,9 +147,6 @@ compute on encrypted data • generate zero-knowledge proofs • optimized 30s �
 
 
 
-### 🏆 github profile trophy
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kritarth1107&theme=radical&no-frame=true&no-bg=true&column=7)
 
 ---
 

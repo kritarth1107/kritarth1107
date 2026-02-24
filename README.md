@@ -130,13 +130,22 @@ compute on encrypted data • generate zero-knowledge proofs • optimized 30s �
 
 ## 📊 github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=kritarth1107&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&icon_color=ff6e96&text_color=c9d1d9&count_private=true)
+<a href="https://github.com/kritarth1107">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kritarth1107&theme=radical" />
+</a>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritarth1107&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=c9d1d9)
+<a href="https://github.com/kritarth1107">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kritarth1107&theme=radical" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kritarth1107&theme=radical" />
+</a>
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=kritarth1107&theme=radical&hide_border=true&background=0d1117&ring=ff6e96&fire=ff6e96&currStreakLabel=ff6e96)
+<img src="https://streak-stats.demolab.com/?user=kritarth1107&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 ---
+
+<div align="center">
+
+
 
 ### 🏆 github profile trophy
 
